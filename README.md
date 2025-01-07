@@ -2,9 +2,9 @@
 
 **This tool was created by my friend**:
 `Its Functions:`
-*Generate almost all types of giftcards
-*Check accounts
-*and much more!
+Generates almost all types of giftcards
+Check accounts
+and much more!
 
 
 
