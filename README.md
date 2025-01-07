@@ -6,7 +6,7 @@ Generates almost all types of giftcards
 Check accounts
 and much more!
 
-
+**Note:** This tool also has a second page dedicated to cybersecuirity thats why it might be seen as a vir2s.
 
 
 # How to use:
