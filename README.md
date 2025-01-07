@@ -1,6 +1,6 @@
 # Silence-multi-tool
 
-**This tool was created by my friend**:
+**This tool was made by Unknown**:
 `Its Functions:`
 Generates almost all types of giftcards
 Check accounts
